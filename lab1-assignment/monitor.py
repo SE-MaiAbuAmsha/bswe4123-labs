@@ -1,4 +1,3 @@
-"""Optional health monitor for Lab 1 services (extra credit, not required)."""
 import time
 
 import httpx
